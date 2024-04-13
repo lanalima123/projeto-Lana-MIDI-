@@ -58,7 +58,7 @@ h1 {
 }
 
 .tecla.ativa,
-.tecla:active {
+.tecla:active { /*quando for clicada*/
   background-color: rgb(26, 98, 107);
   border: 4px solid  var(--cinza);
   box-shadow: 3px 3px 0 var(--branca) inset;
